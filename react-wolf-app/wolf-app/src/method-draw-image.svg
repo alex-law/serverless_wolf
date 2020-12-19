@@ -1,0 +1,17 @@
+<svg width="803" height="300" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="302" width="805" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text stroke="#000" transform="matrix(3.365271806716919,0,0,4.655172348022461,-309.8506066799164,-341.58727833628654) " xml:space="preserve" text-anchor="start" font-family="Arvo, sans-serif" font-size="24" id="svg_1" y="102.91979" x="162.90389" stroke-width="0" fill="#B1FFFF">WOLF</text>
+  <path id="svg_4" d="m349.75001,339.05622l14.51481,0l4.48519,-10.31311l4.48519,10.31311l14.51481,0l-11.74271,6.37378l4.48542,10.31311l-11.74271,-6.37395l-11.74271,6.37395l4.48542,-10.31311l-11.74271,-6.37378z" stroke-width="1.5" stroke="#000" fill="#FFFF91"/>
+  <path id="svg_5" d="m319.13007,238.25l28.50002,-24.5l0,12.25l42.74997,0l0,-36.75l-14.25,0l28.5,-24.5l28.5,24.5l-14.25,0l0,61.24999l-71.24996,0l0,12.25l-28.50002,-24.5l0,0z" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#FFFF91"/>
+ </g>
+</svg>
